@@ -3,7 +3,7 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Underline&weight=500&size=30&pause=1000&color=1557D4&background=FFFFFF00&center=true&vCenter=true&lines=Backend+Web+Developer;Emerging+Scientist" alt="About" /></a>
 </div>
 
-## I little bit about me
+## A little bit about me
 <p>🎓 &nbsp;Passionate about computer science and constantly strive to expand my knowledge and skills.</p>
 <p>🚀 &nbsp;Inspired by the opportunity to work on interesting projects and solve complex problems for the successful development of each project I work on.</p>
 <p>⚡ &nbsp;Highly motivated and quick to learn new tools and methods to achieve better results in work.</p>
