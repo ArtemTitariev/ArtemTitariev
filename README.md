@@ -1,6 +1,6 @@
 ## Hi there, I'm Artem! <img src="./assets/hello.gif" width="30px" alt="GIF" />
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Underline&weight=500&size=30&pause=1000&color=1557D4&background=FFFFFF00&center=true&vCenter=true&lines=Backend+Web+Developer;Emerging+Scientist" alt="About" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Underline&weight=500&size=30&pause=1000&color=1557D4&background=FFFFFF00&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Emerging+Scientist" alt="About" /></a>
 </div>
 
 ## A little bit about me
@@ -26,12 +26,6 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://symfony.com/" target="_blank" rel="noreferrer">
-                    <img src="./assets/symfony.svg" width="48" height="48" alt="Symfony" />
-                    <div align="center">Symfony</div>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
                     <img src="./assets/python.svg" width="48" height="48" alt="Python" />
                     <div align="center">Python</div>
@@ -47,6 +41,40 @@
     </table>
     <table align="center" style="margin-bottom: 20px;">
         <tr>
+            <td align="center">
+                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                    <img src="./assets/mysql.svg" width="48" height="48" alt="MySQL" />
+                    <div align="center">MySQL</div>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+                    <img src="./assets/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+                    <div align="center">PostgreSQL</div>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                    <img src="./assets/mongodb.svg" width="48" height="48" alt="MongoDB" />
+                    <div align="center">MongoDB</div>
+                </a>
+            </td>
+        </tr>
+    </table>
+    <table align="center" style="margin-bottom: 20px;">
+        <tr>
+            <td align="center">
+                <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+                    <img src="./assets/vue.svg" width="48" height="48" alt="Vuejs" />
+                    <div align="center">Vue.js</div>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
+                    <img src="./assets/quasar.svg" width="48" height="48" alt="Vuejs" />
+                    <div align="center">Quasar</div>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                     <img src="./assets/javascript.svg" width="48" height="48" alt="JavaScript" />
@@ -71,16 +99,16 @@
                     <div align="center">TailwindCSS</div>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+                    <img src="./assets/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+                    <div align="center">Bootstrap</div>
+                </a>
+            </td>
         </tr>
     </table>
     <table align="center" style="margin-bottom: 20px;">
         <tr>
-            <td align="center">
-                <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-                    <img src="./assets/vs-code.svg" width="48" height="48" alt="VS Code" />
-                    <div align="center">VS Code</div>
-                </a>
-            </td>
             <td align="center">
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                     <img src="./assets/git.svg" width="48" height="48" alt="Git" />
