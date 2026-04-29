@@ -134,7 +134,7 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+                <a href="https://nginx.org/" target="_blank" rel="noreferrer">
                     <img src="./assets/nginx.svg" width="48" height="48" alt="NGINX" />
                     <div align="center">NGINX</div>
                 </a>
